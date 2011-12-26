@@ -1,0 +1,8 @@
+Welcome to MadeiraCloud!
+
+To install it, you need Python 2.6 (or later) and Pyinotify 0.10 (or later) installed.
+Then run the following command from the shell:
+
+    python setup.py install
+
+For more detailed information, please view http://www.madeiracloud/support/kb/manual/agent/install.html
